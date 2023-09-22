@@ -1,0 +1,12 @@
+{
+    "bot-token": "893525350:AAE6CcxgxLIKstCWCXSYNwwS-hrFnENx3dM",
+    "chimera-api": "sk-499928242908823554-83557",
+    "character_limit": 3000,
+    "default-lore": "🤖 StandardGPT",
+    "default-language": "Русский",
+    "default-model": "gpt-4",
+    "start-stickers": ["CAACAgIAAxkBAAEkEGxkvaiOloqvcgPKWZr8Dhxbh1Y4oQACS1MAAuCjggfn-Y-vqOl_Py8E", "CAACAgIAAxkBAAEkEGRkvafny3mrX4zHyU3qrwxnItPcIgACPlMAAuCjggfyWu4XD2JqcC8E", "CAACAgIAAxkBAAEkEG5kvai8O06XwvFZp2zkHUTkLput1QACRlMAAuCjggelcRFLTs23LS8E", "CAACAgIAAxkBAAEkEHBkvajLUNdfkZfxjiKyQ3sT6bal_gACRFMAAuCjggdHqOeO1ko90y8E", "CAACAgIAAxkBAAEkEHJkvajmCDehDWhccu3NPZbabCGYNAACcVMAAuCjggdqQYF9GIVALi8E", "CAACAgIAAxkBAAEkJsxkwE3t6GnDrtc06aLGRAldDynA4AACe1MAAuCjggf03dY1yDooIC8E"],
+    "languages": ["Русский", "English", "Français", "Türkçe"],
+    "admin-id": 256223828,
+    "log-chat-id": -4074972843
+}
